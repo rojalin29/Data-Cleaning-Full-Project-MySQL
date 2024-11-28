@@ -35,7 +35,7 @@ After completing the data cleaning process, the layoffs dataset is ready for ana
 
 Reduced missing and duplicate values.
 Standardized formats for consistency.
-Clean, reliable data for exploratory analysis and visualization.
+Clean, reliable data for exploratory analysis.
 
-
+# 
 Feel free to reach out with any questions or feedback! 🚀
